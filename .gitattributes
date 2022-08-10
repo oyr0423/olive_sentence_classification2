@@ -1,0 +1,2 @@
+model.bin filter=lfs diff=lfs merge=lfs -text
+input/bert_base_uncased/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
